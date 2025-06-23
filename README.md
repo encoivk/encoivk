@@ -80,11 +80,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=encoivk&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
-## 📈 活动图表
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=encoivk&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</div>
 
 ## 🎯 当前专注
 
@@ -108,25 +103,6 @@ public class 开发者 {
 }
 ```
 
-## 📫 联系我
-
-<div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/微博-E6162D?style=for-the-badge&logo=sina-weibo&logoColor=white" alt="Weibo"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=encoivk&color=brightgreen&style=flat-square&label=访问量" alt="Profile Views"/>
-</div>
 
 <div align="center">
   ⭐️ 来自 <a href="https://github.com/encoivk">encoivk</a>
