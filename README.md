@@ -73,11 +73,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=encoivk&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </div>
 
-## 🔥 连续提交统计
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=encoivk&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 ## 🏆 GitHub 奖杯
 
