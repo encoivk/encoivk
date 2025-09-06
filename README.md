@@ -85,19 +85,14 @@
 public class 开发者 {
     private String name = "encoivk";
     private String[] 当前专注 = {
-        "微服务架构",
+        "MySQL",
         "Spring Cloud",
-        "数据库优化",
-        "系统设计",
-        "性能调优"
+        "Redis",
+        "RocketMQ",
+        "ElasticSearch"
     };
     
-    public void 编程() {
-        while (学习中) {
-            吃饭睡觉写代码();
-            优化和重构();
-        }
-    }
+
 }
 ```
 
